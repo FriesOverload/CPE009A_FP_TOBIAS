@@ -1,5 +1,4 @@
-
-<h1 align="center">★👾 𝓗𝓮𝓵𝓵𝓸 𝔀𝓸𝓻𝓵𝓭, 𝓘'𝓶 𝓛𝓪𝔀𝓻𝓮𝓷𝓬𝓮 𝓣𝓸𝓫𝓲𝓪𝓼 👾★</h1>
+<h1 align="center">★👾 𝕳𝖊𝖑𝖑𝖔 𝖜𝖔𝖗𝖑𝖉, 𝕴'𝖒 𝕷𝖆𝖜𝖗𝖊𝖓𝖈𝖊 𝕿𝖔𝖇𝖎𝖆𝖘 👾★</h1>
 
 ###
 
@@ -11,12 +10,26 @@
 
 ###
 
-<h2 align="center">functioning at 80% 😵‍💫 confusion and 20% confidence 🤩. I like making things look nice✨, even if I don't know what I'm doing🤷🏼‍♂️. I'm chaotic outside🤡, soft inside 🤭.</h2>
+<h3 align="center">Functioning at 80% 😵‍💫 confusion and 20% confidence 🤩. <br>I like making things look nice✨, even if I don't know what I'm doing🤷🏼‍♂️.<br> I'm chaotic outside🤡, soft inside 🤭.</h3>
 
 ###
 
 <div align="center">
   <img height="350" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ajBiaDYwbnh6b2FtY2sxMTV4dzlkamx2Y2V3YXhlMGJseXYwazh0bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EbeeDkvlC3fFRGJ6Om/giphy.gif"  />
+</div>
+
+###
+
+<h4 align="left">🛠 Tools I use</h4>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
 </div>
 
 ###
